@@ -1,0 +1,22 @@
+Exercise1.out:
+
+Enter the filename to read from: nhlstats.txt
+
+Player with  highest points:
+St.Louis TB
+
+Most aggresive player:
+Clowe RW NYR
+Ott C BUF
+
+Most Valuble Player:
+Carter LA
+
+Most Promising Player:
+Ovechkin WSH
+
+Team with the most Penalty:
+BOS With a penalty of:294
+
+Team with the most Winning Goals: 
+PIT With a Winning Goal of: 25

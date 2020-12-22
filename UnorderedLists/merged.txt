@@ -1,0 +1,14 @@
+Exercise2.out:
+
+Enter the first filename: list1.txt
+Enter the second filename: list2.txt
+Item Charlie already present
+Item Dan already present
+Item Travis already present
+For the following Odered Lits:
+list1:
+[Amar, Boris, Charlie, Dan, Fujian, Inder, Travis]
+list2:
+[Alex, Ben, Betty, Charlie, Dan, Pei, Travis, Zola, Zulu]
+Merge list1 & list2: 
+[Alex, Amar, Ben, Betty, Boris, Charlie, Dan, Fujian, Inder, Pei, Travis, Zola, Zulu]
