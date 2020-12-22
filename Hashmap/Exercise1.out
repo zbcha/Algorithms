@@ -1,0 +1,12 @@
+Exercise0.out:
+
+@File read from 'Students.txt'
+Login: cdude
+Password: gh456!32!
+Wrong password! You have 2 more attempts!
+Login: bbones
+Password: qwert123
+Wrong password! You have 1 more attempt!
+Login: bbones
+Password: pass456!
+Welcome! Brom Bones
