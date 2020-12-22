@@ -1,0 +1,58 @@
+*****The Gap of the elments suppose to be the same distance, however txt file made spaces shoter than normal letters
+
+Enter a command: (type help for details)
+create 5 5 Fast Flexible
+Name your Piece with a name and a color: 
+Ronan Red
+Enter a command: (type help for details)
+print
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             RonanRedFF    -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+Enter a command: (type help for details)
+move RonanRedFF up 2
+Enter a command: (type help for details)
+print
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             RonanRedFF    -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+Enter a command: (type help for details)
+move RonanRedFF left 4
+Enter a command: (type help for details)
+print
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+RonanRedFF    -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+Enter a command: (type help for details)
+create 8 8 Fast Flexible
+Name your Piece with a name and a color: 
+Molly Green
+Enter a command: (type help for details)
+move MollyGreenFF up 2
+Enter a command: (type help for details)
+print
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+RonanRedFF    -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             MollyGreenFF  
+-             -             -             -             -             -             -             -             
+-             -             -             -             -             -             -             -             
+Enter a command: (type help for details)
+quit
